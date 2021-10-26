@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+    font-family: snapITC;
+  }
+  
+  h1{
+    font-size: 60px;
+    font-family: Georgia;
+    color: cornflowerblue;
+  }
+  
+  
+  table{
+    table-layout: auto;
+    margin: auto;
+  }
+  
+  main table .codedTags{
+    background-color: lightyellow;
+    font-family: monospace;
+    font-size: 15px;
+  }
+  
+  .stylize{
+    color: lightblue;
+  }
+  
+  main table td{
+    font-size: 17px;
+    padding: 7px;
+    font-family: arial;
+  }
+  
+  main table th{
+    font-size: 18px;
+    border-bottom: 1px solid gray;
+  }
+  
+  .tables{
+    background-color: lightblue;
+    padding: 20px;
+  }
+  
+  th, td{
+  }
+  
+  .attributesHeader{
+    color: cornflowerblue;
+    text-align: center;
+  }
